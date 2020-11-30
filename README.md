@@ -16,29 +16,27 @@ Having diseases in plants or crops is not good 😅 and detecting what kind of d
 
 It is really easy to use. Just go to [this](our link) link. And upload your plant leaf image. After uploading the image, the process will automatically start where the deep learning model will take the image and after a few seconds, predictions will be shown!
 
-# AN IMAGE WILL BE ADDED HERE
-
-```
+![App](./images/app.png)
 
 ## Getting Started
 For people who want to improve/make changes to the projects :)
 
 ### Libraries used
-- Tensorflow 2.0 ( Framewrok for creating & training deep learning models )
-- efficientnet ( Libraries for training efficient-net model architectures )
-- Streamlit ( For creating Web Applications using python )
-- Wandb ( For Recording our Experiments )
+- [Tensorflow 2.0](http://tensorflow.org/) - Framewrok for creating & training deep learning models 
+- [efficientnet](https://github.com/qubvel/efficientnet) - Libraries for training efficient-net model architectures 
+- [Streamlit](https://streamlit.io/) - For creating Web Applications using python 
+- [Wandb](https://wandb.ai/) - For Recording our Experiments 
 
 ### Prerequisites
 
 The code has only been tested on Python 3.7.7 so it's recommended
 
-Python 3.x - You can download python in Official Python Site.
+* [Python 3.x](https://www.python.org/) - You can download python in Official Python Site.
 
 ### Installation
 
 1. Clone the repo by running `git clone https://github.com/Shubhamai/plant-leaf-classification` in terminal. 
-2. run pip install -r `requirements.txt`
+2. run `pip install -r requirements.txt`
 3. Run `streamlit run app.py`
 4. Enjoy 🎊
 
@@ -50,7 +48,7 @@ The dataset was from [Plant Pathology 2020 - FGVC7 Kaggle Competition](https://w
 
 We used Tensorflow 2.0 for creating & training deep learning models and weights & biases for recording our experimentations. You can find all of our experiments recorded from [here](https://wandb.ai/shubhamai/plant%20disease%20classification/reports/Plant-Disease-Detection--VmlldzoyNjMzNTA).   
 
-
+![Validation_Accuracy](https://github.com/Shubhamai/plant-leaf-classification/blob/main/images/validation%20accuracy.png?raw=true)
 
 
 ## Challenges
