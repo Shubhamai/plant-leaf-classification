@@ -1,4 +1,4 @@
-# Plant Leaf Classifcation
+# Plant Leaf Classifcation 🍁
 
 Final project for the [Complete Deep Learning and Computer Vision Course](https://www.udemy.com/course/dlcourse/?referralCode=1B0F4190621EDAD897D1)
 
