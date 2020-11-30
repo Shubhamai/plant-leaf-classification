@@ -1,6 +1,6 @@
 # Plant Leaf Classifcation
 
-Final project for the Complete Deep Learning and Computer Vision 
+Final project for the [Complete Deep Learning and Computer Vision Course](https://www.udemy.com/course/dlcourse/?referralCode=1B0F4190621EDAD897D1)
 
 ## Summary
 
@@ -61,4 +61,4 @@ As said in the challenges section, to improve on this project we need to have mo
 
 ## Acknowledgments
 
-* This project was developed from the course Complete Deep Learning and Computer Vision by Shubhamai
+* This project was developed from the [Complete Deep Learning and Computer Vision Course](https://www.udemy.com/course/dlcourse/?referralCode=1B0F4190621EDAD897D1) by [Shubhamai](https://shubhamai.com)
